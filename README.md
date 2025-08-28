@@ -17,9 +17,6 @@
   <li>O EMC será calculado automaticamente e mostrado na tela.</li>
 </ol>
 <br>
-<h2>Link do projeto</h2>
-<p>Você pode visualizar o projeto no ar através do seguinte link: <a href="https://tatiane-oliveiraa.github.io/Calculadora-de-IMC/">Aqui</a>.</p>
-<br>
 <h2>Tecnologias utilizadas</h2>
 <ul>
   <li>HTML: Estrutura do conteúdo.</li>
